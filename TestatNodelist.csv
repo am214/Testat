@@ -1,0 +1,28 @@
+﻿id;name;type;sector
+hpr;Heinrich Prinz Reuß;1;Adel
+fh;Frank Heppner;1;Prominenz
+mf;Michael Fritsch;1;Politik
+me;Maximilian Eder;1;Militär
+cw;Christian Wendler;1;Politik
+rhl;Ruth Hildegard L.;1;Politik
+rvp;Rüdiger von P.;1;Militär
+pg;Paul G.;1;Judikative
+mr;Melanie R.;1;Gesundheitswesen
+pw;Peter Wörner;1;Militär
+rr;Renee R.;1;Kunst
+bmw;Birgit Malsack-Winkemann;1;Judikative
+am;Andreas M.;1;Militär
+da;David Alaba;1;Fußball
+fr;Frank Richter;1;Politik
+ig;Ivonne G.;1;Exekutive
+aq;Alexander Q;1;Bewegung
+tt;Thomas T.;1;Handwerk
+db;Die Basis;2;Politik
+pl;Polizei;2;Exekutive
+bw;Bundeswehr;2;Militär
+afd;AfD;2;Politik
+bmw;Landesgericht Berlin;2;Politik
+qd;Querdenker;2;Bewegung
+qa;QAnon;2;Bewegung
+rm;Real Madrid;2;Fußball
+cdu;CDU;2;Politik
